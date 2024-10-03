@@ -1,0 +1,30 @@
+childNodes - hamma child elementlarni (matn , bosh joy , ) node list sifatida qaytaradi 
+perviousSibling - oldingi qoshni nodeni qaytaradi (matn, bosh joy yoki element qayatardi )
+perviouselementSibling - olingi qoshni elemetniu qayatardi bosh joy emas 
+nextelementsibling - keyingi qoshni elementni qaytaradi (Fqat element )
+children - faqat bola elementlatni html collecton sifatida qaytardi 
+firstElementChild - birinmchi bola elementni qaytaradi 
+lastElementchild - oxrgi bola elementni qaytaradi 
+
+
+textContent - Elelement ichidagi faqat matnni ozgartiradi
+
+innerHtml - elelment oichidagh tarkibni ozgartiradi html codmni oz ichiga oladi 
+
+innerText -  faqat korinadigan matnni ozgartiradi (css orqali yashirilgabn txt lar bundan mustasno )
+
+outerHtml - elementning ozini va uni ichidagi tarkibini ozgartiradi 
+
+.style - inline css stylesini togridan tiogri ozgartiradi 
+element.className - elementning class qiymatini ozgartiradi 
+
+elelment.ClassList - Elementning Classlar bilan ishlaydigan qoshish , ochirish , almashtirish imkoniyatdi 
+
+
+getElementbyId  - id boyich 1- uchragan elementni qaytaradi
+
+getElementClassname - html collection qaytaradi 
+
+queryselector - berilgan nom boyicha 1-elementni qaytaradi 
+
+queryselectorAll -  berilgan nom boyicha 
